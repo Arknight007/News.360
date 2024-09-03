@@ -1,7 +1,7 @@
 # News.360° - Top Headlines Website
 
 ## Overview
-News.360° is a web application that provides users with the latest top headlines from various genres such as general news, technology, sports, etc. The application is built using ReactJS, Tailwind css, Bootstrap, and fetches news data from the NewsAPI.org.
+News.360° is a web application that provides users with the latest top headlines from genres such as general news, technology, sports, etc. The application uses ReactJS, Tailwind css, Bootstrap, and fetches news data from the NewsAPI.org.
 
 ## Features
 - Display top headlines for various categories.
