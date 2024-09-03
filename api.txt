@@ -1,0 +1,8 @@
+Your API key is: 7fd745cc99e94435ab4fcf3eea2db965
+business
+entertainment
+general
+health
+science
+sports
+technology
